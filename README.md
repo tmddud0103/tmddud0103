@@ -25,9 +25,10 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddud0103) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddud0103&theme=vue)
-[![Solved.ac
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddud0103) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddud0103)](https://solved.ac/tmddud0103)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddud0103&theme=vue)
+
 
 
 
